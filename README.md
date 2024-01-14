@@ -26,17 +26,17 @@ Open the index.html file in a web browser. <br>
 Use the color picker to select a color. <br>
 The selected color and its hexadecimal code will be displayed on the page. <br>
 <br>
-<br>
-Styling
+
+## Styling
 <br>
 The page is styled with a clean and centered layout. <br>
 The color picker input is styled to be visually appealing. <br>
 The selected color is displayed in a box with rounded corners. <br>
 The hexadecimal code is shown below the color box. <br>
 <br>
-<br>
-Creator<br>
+
+## Creator<br>
 Made by Meghna Negi<br><br>
-Preview<br>
+## Preview<br>
 
 Feel free to customize and expand upon this project according to your needs.
