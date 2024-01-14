@@ -4,7 +4,6 @@ This is a simple web application that allows users to select a color using a col
 <br>
 ## Files
 <br>
-<br>
 index.html
 <br>
 The main HTML file that contains the structure of the web page. It includes a title, a color picker input, a container for displaying the selected color and its hexadecimal code, and information about the creator.
@@ -26,6 +25,12 @@ Open the index.html file in a web browser. <br>
 Use the color picker to select a color. <br>
 The selected color and its hexadecimal code will be displayed on the page. <br>
 <br>
+
+## Screenshot <br>
+<img width="668" alt="ss" src="https://github.com/meghnanegi02/Background_Color_Selector/assets/122456280/ef4cabd7-d397-4277-b480-3d3c95d1a8f4">
+
+
+<br><br>
 
 ## Styling
 <br>
